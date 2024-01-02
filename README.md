@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=000000&background=FFFFFF&center=true&random=false&width=435&height=70&lines=Unwrapping+codes+;like+sour+candy+)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=35&pause=10000000000&color=000000&background=FFFDFF&center=true&vCenter=true&width=450&height=70&lines=Breaking+Down+Barriers" alt="Typing SVG" /></a>
